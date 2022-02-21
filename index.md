@@ -1,5 +1,3 @@
-## The First Computing Social Responsibility Workshop-NLP Approaches to Corporate Social Responsibilities (CSR-NLP I) 2022
-
 ### Key Information
 
 **Location**: co-located with [LREC-2022](https://lrec2022.lrec-conf.org/en/)

@@ -2,8 +2,6 @@
 title: CSR-NLP Ⅰ
 ---
 
-## CSR-NLP Ⅰ
-
 ### Key Information
 
 **Location**: co-located with [LREC-2022](https://lrec2022.lrec-conf.org/en/)

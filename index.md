@@ -14,9 +14,7 @@ CSR-NLP I 2022 is a full-day workshop that aims to provide a venue for computati
 
 **Important Dates ([GMT+8](https://en.wikipedia.org/wiki/UTC%2B08:00))**
 - ~~Submission deadline: April 8, 2022~~
-- ~~Notification of acceptance: May 3, 2022~~
 - ~~Camera-ready version due: May 23, 2022~~
-- ~~Workshop proceedings due: May 31, 2022~~
 - ~~Notification of acceptance: May 16, 2022~~
 - ~~Camera-ready version due: May 30, 2022~~
 - ~~Workshop proceedings due: June 6, 2022~~

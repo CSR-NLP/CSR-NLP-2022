@@ -17,11 +17,16 @@ CSR-NLP I 2022 is a full-day workshop that aims to provide a venue for computati
 - ~~Notification of acceptance: May 3, 2022~~
 - ~~Camera-ready version due: May 23, 2022~~
 - ~~Workshop proceedings due: May 31, 2022~~
+- ~~Notification of acceptance: May 16, 2022~~
+- ~~Camera-ready version due: May 30, 2022~~
+- ~~Workshop proceedings due: June 6, 2022~~
 - Submission deadline (Extended): April 24, 2022
-- Notification of acceptance: May 16, 2022
-- Camera-ready version due: May 30, 2022
-- Workshop proceedings due: June 6, 2022
+- Notification of acceptance: May 6, 2022
+-	Camera-ready version due: May 20, 2022
+-	Workshop proceedings due: May 30, 2022
 - Workshop date: June 25, 2022
+
+The Early Bird Registration deadline is set to April 29, 2022. A 10-day extension will be granted and registration at early-bird fees will be available until May 9, 2022.
 
 **Submissions**
 

@@ -32,10 +32,10 @@ The workshop is substantially supported by the funding for Projects of Strategic
 
 
 | Time   (UTC+2) | Event                                                  |            |
-|:--------------|:------------------------------------------------------|:----------|
+|:--------------:|:------------------------------------------------------:|:----------:|
 | 14:00-15:00    | Rountable discussion: PC members + 1/2 CSR/ESG Experts |            |
 | 15:05-15:30    | 20 mins oral presentation (paper #3) + 5 mins QA       |            |
-| **15:35-16:00**    | **20 mins oral presentation (paper #4) + 5 mins QA**       | **Best paper** |
+| **15:35-16:00**    | **20 mins oral presentation (paper #4) + 5 mins QA** | **Best paper** |
 | 16:00-16:30    | Coffee break                                           |            |
 | 16:35-17:00    | 20 mins oral presentation (paper #7) + 5 mins QA       |            |
 | 17:05-17:30    | 20 mins oral presentation (paper #8) + 5 mins QA       |            |

@@ -48,9 +48,13 @@ The workshop is substantially supported by the funding for Projects of Strategic
 
 **Best paper award (USD200)**:
 
-Paper Title: ```Tracking Changes in ESG Representation: Initial Investigations in UK Annual Reports```
+Paper Title: 
 
-Authors: ```Matthew Purver, Matej Martinc, RisteIchev, Igor Lončarski, Katarina Sitar Šuštar, Aljoša Valentinčič and Senja Pollak```
+```Tracking Changes in ESG Representation: Initial Investigations in UK Annual Reports```
+
+Authors: 
+
+```Matthew Purver, Matej Martinc, RisteIchev, Igor Lončarski, Katarina Sitar Šuštar, Aljoša Valentinčič and Senja Pollak```
 
 **Proceedings**
 

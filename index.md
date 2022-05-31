@@ -30,24 +30,19 @@ The workshop is substantially supported by the funding for Projects of Strategic
 
 ### Schedule of the workshop:
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-rsz4{background-color:#DDEBF7;text-align:left;vertical-align:bottom}
-.tg .tg-vtu5{background-color:#E2EFDA;text-align:left;vertical-align:bottom}
-.tg .tg-bp9r{background-color:#FFF;color:#F00;font-weight:bold;text-align:left;vertical-align:bottom}
-.tg .tg-oxy8{background-color:#E2EFDA;color:#F00;font-weight:bold;text-align:left;vertical-align:bottom}
-.tg .tg-j6zm{font-weight:bold;text-align:left;vertical-align:bottom}
-.tg .tg-7zrl{text-align:left;vertical-align:bottom}
-.tg .tg-xj7a{background-color:#FF0;text-align:left;vertical-align:bottom}
-.tg .tg-gdru{background-color:#AEAAAA;text-align:left;vertical-align:bottom}
-</style>
-<table class="tg">
-<thead>
-  <tr>
+| Time   (UTC+2) | Event                                                  |            |
+|----------------|--------------------------------------------------------|------------|
+| 14:00-15:00    | Rountable discussion: PC members + 1/2 CSR/ESG Experts |            |
+| 15:05-15:30    | 20 mins oral presentation (paper #3) + 5 mins QA       |            |
+| 15:35-16:00    | 20 mins oral presentation (paper #4) + 5 mins QA       | Best paper |
+| 16:00-16:30    | Coffee break                                           |            |
+| 16:35-17:00    | 20 mins oral presentation (paper #7) + 5 mins QA       |            |
+| 17:05-17:30    | 20 mins oral presentation (paper #8) + 5 mins QA       |            |
+| 17:35-18:00    | 20 mins oral presentation (paper #9) + 5 mins QA       |            |
+| 18:05-18:15    | 5 mins oral presentation (paper #5) + 5 mins QA        |            |
+| 18:20-18:30    | 5 mins oral presentation (paper #6) + 5 mins QA        |            |
+| 18:35-18:45    | 5 mins oral presentation (paper #10) + 5 mins QA       |            |
+| 18:50-19:00    | Summary of the workshop                                |            |
 
 **Best paper award (USD200)**:
 

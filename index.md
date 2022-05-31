@@ -4,7 +4,7 @@ title: CSR-NLP Ⅰ
 
 ### Key Information
 
-CSR-NLP I 2022 is a full-day workshop that aims to provide a venue for computational linguistic research and NLP methods on Corporate Social Responsibility (CSR) indexing/prediction/modelling. It bridges data resources, language theories, and NLP technologies on CSR and facilitates the detection of corporate images for analysing crucial financial issues of a wide interest, such as stock returns, equity cost, capital expenditure, and so on.
+CSR-NLP I 2022 is a half-day workshop that aims to provide a venue for computational linguistic research and NLP methods on Corporate Social Responsibility (CSR) indexing/prediction/modelling. It bridges data resources, language theories, and NLP technologies on CSR and facilitates the detection of corporate images for analysing crucial financial issues of a wide interest, such as stock returns, equity cost, capital expenditure, and so on.
 
 **Location**: co-located with [LREC-2022](https://lrec2022.lrec-conf.org/en/)
 
@@ -12,59 +12,54 @@ CSR-NLP I 2022 is a full-day workshop that aims to provide a venue for computati
 
 **City**: Palais du Pharo, Marseille
 
-**Important Dates ([GMT+8](https://en.wikipedia.org/wiki/UTC%2B08:00))**
-- ~~Submission deadline: April 8, 2022~~
-- ~~Camera-ready version due: May 23, 2022~~
-- ~~Notification of acceptance: May 16, 2022~~
-- ~~Camera-ready version due: May 30, 2022~~
-- ~~Workshop proceedings due: June 6, 2022~~
-- Submission deadline (Extended): April 24, 2022
+**Workshop Date**: 25 June 2022 (UTC+2)
+
+**Contact**: Mingyu Wan, Bo Peng, Emmanuele Chersoni, Cindy Sing Bik Ngai
+
+**Contact email**: mingyu.wan@polyu.edu.hk
+
+**Important Dates (UTC+2)**
+- Submission deadline (Extended): April 24, 2022 
 - Notification of acceptance: May 6, 2022
--	Camera-ready version due: May 20, 2022
--	Workshop proceedings due: May 30, 2022
+- Camera-ready version due: May 20, 2022
+- Workshop proceedings due: May 31, 2022
 - Workshop date: June 25, 2022
 
-The Early Bird Registration deadline is set to April 29, 2022. A 10-day extension will be granted and registration at early-bird fees will be available until May 9, 2022.
+**Funding source**: 
+The workshop is substantially supported by the funding for Projects of Strategic Importance of The Hong Kong Polytechnic University (Project Code: ZE2J, Project title: Artificial Intelligence and Applications of Natural language processing in Business) and sponsored by the Research Centre for Professional Communication in English (RCPCE)
 
-**Submissions**
+### Schedule of the workshop:
+| Time (UTC+2)            | Event                                                  |            |
+|:-----------------------:|:------------------------------------------------------:|:-----------|
+| 14:00-15:00             | Rountable discussion: PC members + 1/2 CSR/ESG Experts |            |
+| 15:05-15:30             | 20 mins oral presentation (paper #3) + 5 mins QA       |            |
+|**15:35-16:00**          | **20 mins oral presentation (paper #4) + 5 mins QA**   |**Best paper**|
+| 16:00-16:30             | Coffee break                                           |            |
+| 16:35-17:00             | 20 mins oral presentation (paper #7) + 5 mins QA       |            |
+| 17:05-17:30             | 20 mins oral presentation (paper #8) + 5 mins QA       |            |
+| 17:35-18:00             | 20 mins oral presentation (paper #9) + 5 mins QA       |            |
+| 18:05-18:15             | 5 mins oral presentation (paper #5) + 5 mins QA        |            |
+| 18:20-18:30             | 5 mins oral presentation (paper #6) + 5 mins QA        |            |
+| 18:35-18:45             | 5 mins oral presentation (paper #10) + 5 mins QA       |            |
+| 18:50-19:00             | Summary of the workshop                                |            |
 
-Submissions are now available through the [START](https://www.softconf.com/lrec2022/CSR-NLP1/) site . We call for full papers from 4 pages to 8 pages (plus more pages for references if needed), which must strictly follow the LREC [stylesheet](https://lrec2022.lrec-conf.org/en/submission2022/authors-kit/). When submitting a paper from the START page, authors will be asked to provide essential information about resources (in a broad sense, i.e., also technologies, standards, evaluation kits, etc.) that have been used for the work described in the paper or are a new result of your research. Moreover, ELRA encourages all LREC authors to share the described LRs (data, tools, services, etc.) to enable their reuse and replicability of experiments (including evaluation ones).
+**Best paper award (USD200)**:
+
+Paper Title: ```Tracking Changes in ESG Representation: Initial Investigations in UK Annual Reports```
+
+Authors: ```Matthew Purver, Matej Martinc, RisteIchev, Igor Lončarski, Katarina Sitar Šuštar, Aljoša Valentinčič and Senja Pollak```
 
 **Proceedings**
 
 The Proceedings will include both oral and poster papers, in the same format.
 
-There is no difference in quality between oral and poster presentations. Only the appropriateness of the type of communication (more or less interactive) to the content of the paper will be considered.
+There is no difference in quality between oral and poster presentations. Only the appropriateness of the type of communication (more or less interactive) to the content of the paper will be considered. ```All LREC 2022 workshops will have their proceedings published on the ACL Anthology.```
 
-**Multiple Submissions Policy**
+**Invited Panelist**
 
-Simultaneous submission to other venues is allowed, but it should be declared at submission time. In case of acceptance, the papers have to be withdrawn from all the other archival venues, otherwise they will be excluded from the proceedings.
+[WONG May Kay](https://www.hangseng.com/en-hk/about-us/directors-organisation/senior-management/)
 
-**Contact**: Mingyu Wan, Bo Peng, Emmanuele Chersoni, Cindy Sing Bik Ngai
-
-**Contact email**: [mingyu.wan@polyu.edu.hk]
-
-### Workshop Description
-
-Corporate Social Responsibility (CSR) as a shared grand challenge in business studies and in computational linguistics has not been tackled yet in the recently thriving financial NLP studies. These work so far have been more driven by the NLP downstream technology instead of the theoretical or real-world issues driving studies of economics or business. Conventional methods usually focus on shared values of companies such as sustainability, carbon footprint, diversity and inclusion, fair-trade, social justice, environmental impact. However, different businesses may breed additional and more specific areas of issues to address, such as pollution/emission, pharmacovigilance, food safety etc. Since some researchers in the NLP community have started to work on this topic, we propose to call for concerted efforts in this workshop to build up language resources, and to tackle some of the key issues, such as CSR ranking, CSR crisis, and CSR perception with corporate performance, etc. based on language technologies. 
-
-The ultimate goal of the current proposal is to identify and develop a niche research methodology that is highly competitive and world leading for CSR modelling. Tackling the Grand Challenges of the world by promoting mutual understanding through language and CSR is a necessary step towards tackling other grand challenges that also may be aided by language big data, deep neural networks, linguistic tools and methods, towards some of the trending issues in CSR studies such as environmental degradation and the climate crisis.
-
-We can view the challenge of understanding and evaluating CSR as an NLP task learning CSR information from language big data, and to develop on annotated language resources. Thus, we propose to add the followings as potential areas of submissions for contributing to dataset/resource constructions and CSR prediction.
-
-### Scope and Topics
-
-Topics of interest include, but not limited to:
-- Data mining methods to collect and construct CSR/ESG data
-- NLP methods to automatic evaluation and ranking of CSR
-- Resources and evaluation strategies for NLP-CSR
-- Extraction, annotation and integration of potential source data including corporate reports (esp. CSR reports), (environmental) impact studies, consumer complaints, records of donation related to CSR issues, records of violation and punishment related to CSR issues, news, and social media
-- NLP technologies for tracking and evaluation of different aspects of societal and environmental concerns vis-a-via CSR, including (but not limited to), sustainability, carbon footprint, diversity and inclusion, fair trade, social justice, environmental impact, etc.
-- Automatic detection and prevention of risks both as CSR obligations and risk management, including (but not limited to), pharmacovigilance, food safety, inequality and exclusion, workplace bullying, fake or inaccurate content, ethnic stereotyping and other insensitive languages
-- Incorporating linguistic and behavioural theories and NLP technologies to interpret and model CSR positioning and perception
-- Modelling the correlations between a company’s CSR policies, actions, and statements with the public evaluation of its CSR performance, and between public evaluation of CSR of a company and its market performance and brand value estimation
-- Adaptation and synergizing NLP tasks and solutions such as Emotion and Sentiment Analysis, Event Detection, Fake News Detection, Information Quality, Irony and Sarcasm Detection, Metaphor Classification, Named Entity Recognition, etc.
-
+Head of Communications and Corporate Sustainability, Heng Seng Bank HONG KONG
 
 ### Organizers and Committee
 - Kathleen Ahrens, The Hong Kong Polytechnic University

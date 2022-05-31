@@ -70,8 +70,10 @@ Head of Communications and Corporate Sustainability, Heng Seng Bank HONG KONG
 
 ### Organizers and Committee
 - Kathleen Ahrens, The Hong Kong Polytechnic University
+- Emmanuele Chersoni, The Hong Kong Polytechnic University
 - Chu-Ren Huang, The Hong Kong Polytechnic University
 - Huyen Nguyen Thi Minh, VNU University of Science
+- Cindy Sing Bik Ngai, The Hong Kong Polytechnic University
 - Rachel Edita O. Roxas, National University, Manila, Philippines
 - Qi Su, Peking University
 - Mingyu Wan, The Hong Kong Polytechnic University

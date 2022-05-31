@@ -46,7 +46,7 @@ The workshop is substantially supported by the funding for Projects of Strategic
 | 18:50-19:00    | Summary of the workshop                                |            |
 
 
-**Best paper award (USD200)**:
+**Best paper award (USD200)**
 
 Paper Title: 
 
@@ -79,4 +79,33 @@ Head of Communications and Corporate Sustainability, Heng Seng Bank HONG KONG
 
 **Programme Committee**
 
-Benjamin R Bates (Ohio), Maria Bonnafous-Boucher (Novancia Business School), Franklin J Boster (Michigan State), Michael E Brown (CalTech), Tommaso Caselli (Groningen), Jason Chang (National Tsing Hua University), Hsin-Hsi Chen (National Taiwan), Agnes Cheng (Oklahoma State), Emmanuele Chersoni (HK PolyU), Chris Cieri (LDC-UPenn), Cindy Sing Bik Ngai (HK PolyU), Hyunyi Cho (Ohio State), Jounghwa Choi (Hallym), Kristel M Gallagher (Thiel College), Shu-kai Hsieh (National Taiwan), Yu-yin Hsu (HK PolyU), Ngyun Thi Minh Hyuen (Vietnam National), Chunyu Kit (CityU HK), John Lee (CityU HK), Jing Li (HK PolyU), Pengyuan Liu (Beijing Language and Culture University), Michael J Maloni (Kennesaw State), Karl Neergaard (University of Macau), Azadeh Nikfarjam (Apple), Bo Peng (HK PolyU), Brian L Quick (Illinois), Beatrice Portelli (Udine), Paul R Portney (Arizona), Rachel Roxas (National U-Philippnes), Enrico Santus (Bayer), Giuseppe Serra (Udine), Qi Su (Peking U), Saghar I Tamaddon (UC Berkeley), Piek Vossen (VU Amsterdam), John A Updegraff (Kent State), Rong Xiang (HK PolyU). 
+- Benjamin R Bates (Ohio)
+- Maria Bonnafous-Boucher (Novancia Business School)
+- Franklin J Boster (Michigan State), Michael E Brown (CalTech)
+- Tommaso Caselli (Groningen)
+- Jason Chang (National Tsing Hua University)
+- Hsin-Hsi Chen (National Taiwan), Agnes Cheng (Oklahoma State)
+- Emmanuele Chersoni (HK PolyU), Chris Cieri (LDC-UPenn)
+- Cindy Sing Bik Ngai (HK PolyU), Hyunyi Cho (Ohio State)
+- Jounghwa Choi (Hallym), Kristel M Gallagher (Thiel College)
+- Shu-kai Hsieh (National Taiwan)
+- Yu-yin Hsu (HK PolyU)
+- Ngyun Thi Minh Hyuen (Vietnam National)
+- Chunyu Kit (CityU HK)
+- John Lee (CityU HK)
+- Jing Li (HK PolyU)
+- Pengyuan Liu (Beijing Language and Culture University)
+- Michael J Maloni (Kennesaw State)
+- Karl Neergaard (University of Macau)
+- Azadeh Nikfarjam (Apple)
+- Bo Peng (HK PolyU)
+- Brian L Quick (Illinois)
+- Beatrice Portelli (Udine)
+- Paul R Portney (Arizona)
+- Rachel Roxas (National U-Philippnes)
+- Enrico Santus (Bayer), Giuseppe Serra (Udine)
+- Qi Su (Peking U)
+- Saghar I Tamaddon (UC Berkeley)
+- Piek Vossen (VU Amsterdam)
+- John A Updegraff (Kent State)
+- Rong Xiang (HK PolyU)

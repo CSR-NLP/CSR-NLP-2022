@@ -60,7 +60,7 @@ Authors:
 
 The Proceedings will include both oral and poster papers, in the same format.
 
-There is no difference in quality between oral and poster presentations. Only the appropriateness of the type of communication (more or less interactive) to the content of the paper will be considered. ```All LREC 2022 workshops will have their proceedings published on the ACL Anthology.```
+There is no difference in quality between oral and poster presentations. Only the appropriateness of the type of communication (more or less interactive) to the content of the paper will be considered. *All LREC 2022 workshops will have their proceedings published on the ACL Anthology.*
 
 **Invited Panelist**
 

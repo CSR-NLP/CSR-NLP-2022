@@ -46,7 +46,7 @@ The workshop is substantially supported by the funding for Projects of Strategic
 | 18:50-19:00    | Summary of the workshop                                |            |
 
 
-### Best paper award (USD200)
+### Best paper award (USD200):
 
 **Paper Title**: 
 
